@@ -4,7 +4,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author chinm
+ * @author 
  */
 public class MyApp {
     public static void main(String[] args) {
